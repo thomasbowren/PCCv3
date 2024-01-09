@@ -1,0 +1,5 @@
+In Python you can store information in variables witout needing to declare a data type.
+In Python you can store information of any data type in a list or dictionary.
+In Python you can create modules and easily import them to extend the funtionality of other programs.
+In Python you can define function/method parameters with * and ** notation respectively to pass an arbitrary number of arguments as a list or keyword-value pairs as a dictionary.
+In Python you can employ the OOP (Object-Oriented Programming) paradigm to model program logic after real-world scenarios.

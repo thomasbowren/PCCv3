@@ -3,7 +3,7 @@ def main():
     sandwich_orders = ['rueben', 'club', 'meatball sub', 'pb & j', 'pastrami', 'tuna', 'pastrami', 'philly cheese steak', 'pastrami',]
     finished_sandwiches = []
 
-    print("\nSorry, we're out or Pastrami you dumb bitch!")
+    print("\nSorry, we're out of Pastrami you dumb bitch!")
 
     while 'pastrami' in sandwich_orders:
         sandwich_orders.remove('pastrami')
